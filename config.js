@@ -46,7 +46,7 @@ module.exports = {
     BRANCH: 'master',
     DEVELOPER: 'Kaweesha Chamod',
     AUTHOR: 'Kaweesha Chamod',
-    GIT: 'https://github.com/xmain12/Stefanie_.git',
+    GIT: 'https://github.com/Kaweebro/Stefanie_.git',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
         API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
